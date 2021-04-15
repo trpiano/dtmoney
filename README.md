@@ -45,7 +45,7 @@ Before starting 🏁, you need to have [Git](https://git-scm.com) and [Node](htt
 
 ```bash
 # Clone this project
-$ git clone https://github.com/davi1985/dtmoney
+$ git clone https://github.com/trpiano/dtmoney
 
 # Access
 $ cd dtmoney
